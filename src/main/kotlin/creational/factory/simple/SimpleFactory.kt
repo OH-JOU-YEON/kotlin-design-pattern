@@ -11,6 +11,7 @@ package org.example.creational.factory.simple
  * 사용하기 좋은 경우
  *
  * 객체 생성 로직이 복잡할 때
+ *  - 생성자에 분기가 존재할 때
  * 여러 곳에서 같은 타입의 객체를 생성할 때
  * 생성하는 객체의 종류가 자주 변하지 않을 때
  *

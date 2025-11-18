@@ -7,6 +7,10 @@ package org.example.creational.factory.abstractFactory
  *
  * 사용 경우
  * 클라이언트가 구현을 알 필요 없을 때
+ *
+ * 사용을 피하는 경우
+ * 제품군이 자주 바뀔 때
+ *  - 제품군이 자주 변경된다면 빌더, 프로토타입 패턴을 사용
  */
 
 /**
